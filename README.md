@@ -20,7 +20,7 @@ An elegant, animated web application that allows users to search for GitHub prof
 
 1. Clone the repository:
  ```bash
-  git clone https://github.com/MuradIsazade777/https:/github-profile-app-iota.vercel.app/
+  git clone https://github.com/rstar327/github-profile-preview.git
 ```
 
 Open index.html in your browser — no build step required.
@@ -36,5 +36,3 @@ This project is licensed under the MIT License.
 You are free to use, modify, and distribute this software with proper attribution.
 
 See the [LICENSE](LICENSE) file for full details. 
-
-Created with ❤️ by Murad Isazade.
