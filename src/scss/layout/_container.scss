@@ -1,7 +1,17 @@
 .container {
   width: 90%;
   max-width: 1000px;
-  margin: 40px auto;
+  margin: 0 auto;
   display: flex;
   justify-content: center;
+  align-items: center;
+  flex: 1;
+  min-height: 0;
+  
+  #profile-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
 }
