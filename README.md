@@ -27,7 +27,7 @@ Open index.html in your browser — no build step required.
 
 ## 🔗 Live Demo
 
-Check out the live version here: [Demo](https://github-profile-app-iota.vercel.app/)
+Check out the live version here: [Demo](https://github-profile-preview.vercel.app/)
 
 
 ## 📄 License
