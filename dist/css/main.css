@@ -185,9 +185,19 @@ ul {
 @media (max-width: 480px) {
   .search-box {
     flex-direction: column;
+    align-items: center;
+    gap: 10px;
   }
-  .search-box input {
-    width: 100%;
+  .search-box input,
+  .search-box button {
+    width: 250px;
+    padding: 10px 15px;
+    box-sizing: border-box;
+    border: none;
+    outline: none;
+    font-size: 1rem;
+    font-family: inherit;
+    border-radius: 8px;
   }
 }
 @media (max-width: 450px) {
