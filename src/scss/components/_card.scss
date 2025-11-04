@@ -17,6 +17,17 @@
 
   .location {
     font-size: 0.9rem;
-    opacity: 0.8;
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    color: $text-color;
+    white-space: nowrap;
+    opacity: 0.9;
+    
+    i {
+      font-size: 0.85rem;
+      flex-shrink: 0;
+      opacity: 0.9;
+    }
   }
 }
